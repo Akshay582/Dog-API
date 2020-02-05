@@ -1,0 +1,18 @@
+/*Basic header styling.*/
+
+section{
+	height: 10vh;
+	background-image: linear-gradient(to right, antiquewhite, whitesmoke);
+}
+
+form{
+	display: inline-block;
+}
+
+#get-image-button{
+	transform: translate(700%, 0%);
+}
+
+img{
+	max-height: 80vh;
+}
